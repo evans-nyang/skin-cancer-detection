@@ -1,0 +1,8 @@
+tensorflow
+keras
+keras-cv
+pandas
+numpy
+matplotlib
+glob2
+joblib
