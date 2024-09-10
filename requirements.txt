@@ -1,8 +1,13 @@
 tensorflow
 keras
 keras-cv
+opencv-python
 pandas
 numpy
 matplotlib
 glob2
 joblib
+jupyter
+scikit-learn
+pydot
+pydotplus

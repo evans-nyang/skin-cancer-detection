@@ -42,6 +42,7 @@ Datasets were curated by the International Skin Imaging Collaboration (ISIC) fro
 
 ## Journals
 
+- [Linux Setup](bin/README.md)
 - [Prerequisite](journal/prerequisite.md)
 - [Documentation](journal/documentation.md)
 
@@ -50,6 +51,7 @@ Datasets were curated by the International Skin Imaging Collaboration (ISIC) fro
 - [ISIC 2024 - Skin Cancer Detection with 3D-TBP](https://challenge2024.isic-archive.com/)
 - [ISIC 2024 Kaggle](https://www.kaggle.com/competitions/isic-2024-challenge)
 - [KerasCV Starter](https://www.kaggle.com/code/awsaf49/isic2024-kerascv-starter/)
+- [Data Descriptor](https://www.nature.com/articles/s41597-024-03743-w)
 
 ## Contributing
 
